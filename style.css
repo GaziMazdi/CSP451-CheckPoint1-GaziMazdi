@@ -1,3 +1,4 @@
 body { font-family: Arial, sans-serif; margin: 2rem; }
 h1 { letter-spacing: 0.5px; }
 p { line-height: 1.5; }
+/* readability */ p { line-height: 1.6; }
